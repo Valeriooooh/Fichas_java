@@ -9,7 +9,7 @@ public class a {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Introduza a equação de segundo grau (ax^2 + bx + c)");
+		System.out.println("Introduza a equaï¿½ï¿½o de segundo grau (ax^2 + bx + c)");
 		a = sc.nextDouble();
 		b = sc.nextDouble();
 		c = sc.nextDouble();
