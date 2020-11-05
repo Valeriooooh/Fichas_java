@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class k {
     public static void main(String[] args) {
 
-        int n = 0;
+        int n = 2000;
         boolean primo = false;
         int num = 0;
 
